@@ -1,0 +1,23 @@
+/*my-first-webpage.css*/
+
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+h2{
+    color: rgb(30, 162, 219);
+    font-style:italic;
+}
+
+p{
+  text-align: justify;
+  font-family: fantasy;
+  line-height: 30px;
+
+}
+
+ul{
+    font-weight:bold;
+    font-size:  40px;
+    font-family: Arial;
+}

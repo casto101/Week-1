@@ -1,0 +1,57 @@
+.intro{
+        color: orange;
+        border: 5px solid black;
+      /*  border-left: 3px;
+        border-right: 3px;
+        border-top: 3px;
+        border-bottom: 3px;
+        border-color: red;*/
+}
+
+div h2{
+
+        font-weight: bold;
+}
+
+p{
+        text-transform: uppercase;
+}
+
+img{
+      margin-left:350px;
+      border: 3px dashed red;
+      width: 500px;
+}
+/*TILT*/
+.tilt {
+  -webkit-transition: all 0.2s ease;
+     -moz-transition: all 0.2s ease;
+       -o-transition: all 0.2s ease;
+      -ms-transition: all 0.2s ease;
+          transition: all 0.2s ease;
+}
+
+.tilt:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg)
+          scale(1.2,1.2);
+}
+#text{
+      visibility: hidden;
+      color: blue;
+      font-weight: bold;
+      font-size: 50px;
+      margin-left: 430px;
+      margin-bottom: 225px;
+      margin-top: -185px;
+
+}
+.tilt:hover #text {
+            position:relative;
+            visibility: visible;
+            color: red;
+
+}

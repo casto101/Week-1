@@ -1,0 +1,74 @@
+body{
+  background-image: url(http://hdw.datawallpaper.com/abstract/empty-city-wide-wallpaper-332861.jpg);
+  color: #FFF6F6;
+  position: fixed;
+  height: 100%;
+}
+
+h1{
+    font-family: "Tahoma";
+    color: #79C074;
+}
+
+h2{
+
+    font-family: "Tahoma";
+    color: #CEFFC9;
+}
+
+p{
+  font-family: "Georgia";
+
+}
+
+ul{
+  line-height: 24px;
+}
+
+ol{
+  line-height: 24px;
+}
+
+li{
+  font-family: "Georgia";
+
+}
+
+#container{
+
+            width: 40%;
+            background-color: rgba(80,82,81,0.8);
+            display: inline-block;
+            padding: 20px;
+            height: 100%;
+}
+#space{
+        float:left;
+        width: 30%;
+        display: inline-block;
+        height: 100%;
+}
+
+#space2{
+        width: 30%;
+        height: 100%;
+        display: inline-block;
+        float:right;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+.best{
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #79C074;
+}
+a:visited{
+  color: #CEFFC9;
+}
+a {
+  color: #FFF6F6;
+}

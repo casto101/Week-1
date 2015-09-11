@@ -1,0 +1,24 @@
+h1{
+  color: #09D52B;
+}
+
+h2{
+ font-style: italic;
+}
+
+p{
+  text-align: center;
+}
+
+ul{
+  line-height: 25px;
+}
+
+ol{
+  line-height: 60px;
+}
+
+li{
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
